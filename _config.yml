@@ -1,7 +1,7 @@
 name: sixtyten
 favicon: null
-layout_spectrum: 0.5364059247076511
-typography_spectrum: 0.6041788577567786
+layout_spectrum: 1
+typography_spectrum: 0.15837
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.17999396892264485
+  brandStrength: 0
   lightness: 0.1746259480714798
   saturation: 0.9103560142684728
   rhythmicContrast: 0.9585435146000236
