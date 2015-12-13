@@ -1,6 +1,6 @@
 name: sixtyten
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.53656
 typography_spectrum: 0.15837
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0
-  lightness: 0.1746259480714798
+    - '#f2f6f9'
+    - '#00040f'
+    - '#97afb9'
+    - '#a18a79'
+    - '#e3c7a2'
+  brandStrength: 0.1875
+  lightness: 0.1875
   saturation: 0.9103560142684728
-  rhythmicContrast: 0.9585435146000236
+  rhythmicContrast: 1
 purpose: []
